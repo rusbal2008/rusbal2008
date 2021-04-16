@@ -1,0 +1,27 @@
+
+------------------------
+2019.08.13 4:39:40
+telephony send data
+Array
+(
+    [URL] => https:///rest/event.bind
+    [PARAMS] => Array
+        (
+            [event] => ONEXTERNALCALLSTART
+            [handler] => http://test2/index.php?action=outcoming
+            [auth] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.08.13 4:39:44
+telephony got data
+Array
+(
+    [raw] => 
+)
+
+------------------------
